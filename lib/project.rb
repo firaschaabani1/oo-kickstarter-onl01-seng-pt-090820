@@ -1,1 +1,3 @@
-p
+class project
+  
+  attr_reader :
